@@ -1,0 +1,33 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+:root {
+  --text: rgb(102,51,153)
+}
+.topics {
+  font-family: 'Preahvihear', sans-serif;
+  color: var(--text);
+  background-color: rgb(0,139,139,0.2); 
+  margin-left: 20px; 
+  margin-right: 20px; 
+  margin-top: 20px"
+}
+h2 {
+  font-family: 'Preahvihear', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center; 
+  color: rgb(126, 14, 238)
+}
+.container {
+  display: flex;
+  justify-contant: center;
+  background-color: chartreuse;
+}
+.item {
+  width: 360px;
+  background-color: chocolate;
+  margin: 10px;
+
+
+}
