@@ -6,3 +6,8 @@ Hit P
 Hit P
 Hit P
 Hit P
+Uppercut P
+Burst P 
+Low kick P
+Air lock P
+Stunt lock P
